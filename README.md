@@ -21,8 +21,8 @@ Economically self-sustaining due to a built-in incentive system, enforced throug
 
 ### Founders
 
-Viktor Tron - President ([Github]([url](https://github.com/zelig)), [Forbes Council]([url](https://councils.forbes.com/profile/Viktor-Tr%C3%B3n-Founder-President-Swarm/42d8ba43-4fda-493e-9cde-7a707f317ed9)), [LinkedIn]([url](https://www.linkedin.com/in/viktortron)), [Twitter]([url](https://twitter.com/zeligf)))
-Daniel Nagy - Vice President
+- Viktor Tron - President ([Github](https://github.com/zelig), [Forbes Council](https://councils.forbes.com/profile/Viktor-Tr%C3%B3n-Founder-President-Swarm/42d8ba43-4fda-493e-9cde-7a707f317ed9), [LinkedIn](https://www.linkedin.com/in/viktortron), [Twitter](https://twitter.com/zeligf))
+- Daniel Nagy - Vice President
 
 ### Website
 
