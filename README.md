@@ -19,6 +19,11 @@ Incepted at Ethereum Foundation, Swarm is a peer-to-peer network of nodes that c
 
 Economically self-sustaining due to a built-in incentive system, enforced through smart contracts on the Ethereum blockchain and powered by the BZZ token, Swarm provides exceptional privacy features like anonymous browsing, deniable storage, untraceable messaging and file representation formats that leak no metadata.
 
+### Founders
+
+Viktor Tron - President ([Github]([url](https://github.com/zelig)), [Forbes Council]([url](https://councils.forbes.com/profile/Viktor-Tr%C3%B3n-Founder-President-Swarm/42d8ba43-4fda-493e-9cde-7a707f317ed9)), [LinkedIn]([url](https://www.linkedin.com/in/viktortron)), [Twitter]([url](https://twitter.com/zeligf)))
+Daniel Nagy - Vice President
+
 ### Website
 
 [https://www.ethswarm.org](https://www.ethswarm.org/)
