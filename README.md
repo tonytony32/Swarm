@@ -123,9 +123,13 @@ BZZ usage is two-fold:
 - Write and persist data: Publishers in Swarm use BZZ to write data on Swarm and have it stored over time.
 - Participate as a storage provider: Receive BZZ through Swarm’s redistribution mechanism for providing storage services.
 
-### Maximum supply
+### Token supply
 
 The token supply is not fixed and can increase or decrease via the bonding curve. Put simply, if the supply goes up by one token, so does its price in the bonding curve contract, and vice versa. This makes BZZ neither inflationary nor deflationary. You can read about Swarm’s supply and bonding curve in detail [here](https://medium.com/ethereum-swarm/swarm-and-its-bzzaar-bonding-curve-ac2fa9889914).
+
+| Contract | Blockchain | Address |
+| --- | --- | --- |
+BZZ Bonding Curve | Ethereum | 0x4F32Ab778e85C4aD0CEad54f8f82F5Ee74d46904
 
 ### Storage Incentives Contracts
 | Contract | Blockchain | Address |
