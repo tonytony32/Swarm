@@ -97,12 +97,14 @@ BZZ (ERC-20)
 
 Gnosis chain
 
-### Token Contract Address
+### Token Contract Addresses
 
-Ethereum, BZZ: 0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb
-Gnosis chain, xBZZ: 0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da
-Goerli testnet, gBZZ: 0x2ac3c1d3e24b45c6c310534bc2dd84b5ed576335
-Sepolia testnet, sBZZ: 0x543dDb01Ba47acB11de34891cD86B675F04840db
+| Blockchain | Ticker | Address |
+| --- | --- | --- |
+| Ethereum | BZZ | 0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb |
+| Gnosis chain | xBZZ | 0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da |
+| Goerli testnet | gBZZ | 0x2ac3c1d3e24b45c6c310534bc2dd84b5ed576335 |
+| Sepolia testnet | sBZZ | 0x543dDb01Ba47acB11de34891cD86B675F04840db |
 
 ### Token Services
 
@@ -124,6 +126,14 @@ BZZ usage is two-fold:
 ### Maximum supply
 
 The token supply is not fixed and can increase or decrease via the bonding curve. Put simply, if the supply goes up by one token, so does its price in the bonding curve contract, and vice versa. This makes BZZ neither inflationary nor deflationary. You can read about Swarm’s supply and bonding curve in detail [here](https://medium.com/ethereum-swarm/swarm-and-its-bzzaar-bonding-curve-ac2fa9889914).
+
+### Storage Incentives Contracts
+| Contract | Blockchain | Address |
+| --- | --- | --- |
+| Postage Stamp	| Gnosis Chain	| 0x30d155478eF27Ab32A1D578BE7b84BC5988aF381
+| Staking	| Gnosis Chain	| 0x781c6D1f0eaE6F1Da1F604c6cDCcdB8B76428ba7
+| Redistribution	| Gnosis Chain |	0x1F9a1FDe5c6350E949C5E4aa163B4c97011199B4
+| Price Oracle |	Gnosis Chain |	0x344A2CC7304B32A87EfDC5407cD4bEC7cf98F035
 
 -----
 # Technology highlighs
