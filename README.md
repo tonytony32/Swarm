@@ -93,6 +93,23 @@ Ethereum
 
 BZZ (ERC-20)
 
+### Secondary chains
+
+Gnosis chain
+
+### Token Contract Address
+
+Ethereum, BZZ: 0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb
+Gnosis chain, xBZZ: 0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da
+Goerli testnet, gBZZ: 0x2ac3c1d3e24b45c6c310534bc2dd84b5ed576335
+Sepolia testnet, sBZZ: 0x543dDb01Ba47acB11de34891cD86B675F04840db
+
+### Token Services
+
+https://tokenservice.ethswarm.org/circulating_supply
+
+https://tokenservice.ethswarm.org/token_price
+
 ### Block Explorer
 
 [https://etherscan.io/token/0x19062190b1925b5b6689d7073fdfc8c2976ef8cb](https://etherscan.io/token/0x19062190b1925b5b6689d7073fdfc8c2976ef8cb)
@@ -103,16 +120,6 @@ BZZ usage is two-fold:
 
 - Write and persist data: Publishers in Swarm use BZZ to write data on Swarm and have it stored over time.
 - Participate as a storage provider: Receive BZZ through Swarm’s redistribution mechanism for providing storage services.
-
-### Token Contract Address
-
-eth:0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb
-
-### Token Services
-
-https://tokenservice.ethswarm.org/circulating_supply
-
-https://tokenservice.ethswarm.org/token_price
 
 ### Maximum supply
 
@@ -146,7 +153,7 @@ The uploaders pay a rent in BZZ to storers in proportion to the amount of storag
 
 [The Mechanics of Swarm network's Storage Incentives](https://medium.com/ethereum-swarm/the-mechanics-of-swarm-networks-storage-incentives-3bf68bf64ceb) (Medium article, paper to be released)
 
-### Audits
+### Code Audits
 
 Include links to any security audits that have been completed
 
