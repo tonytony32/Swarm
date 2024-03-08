@@ -67,9 +67,8 @@ Economically self-sustaining due to a built-in incentive system, enforced throug
 
 All tokens are fully transferable since August 2nd 2021.
 
-More information: 
+Tokenomics: 
 [BZZ Tokenomics](https://medium.com/ethereum-swarm/swarm-tokenomics-91254cd5adf) 
-[Whitepaper](https://www.ethswarm.org/swarm-whitepaper.pdf)
 
 ### Exchanges list
 
@@ -78,9 +77,9 @@ Coingecko:https://www.coingecko.com/en/coins/swarm#markets
 
 ### DEX Markets
 
-- Bonding curve: https://bzz.exchange/
-- Uniswap: https://app.uniswap.org/#/swap?chain=ethereum&inputCurrency=ETH&outputCurrency=0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb
-- Honeyswap: https://honeyswap.1hive.eth.limo/#/swap?chain=xdai&outputCurrency=0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da
+- Bonding curve (BZZ/DAI): https://bzz.exchange/
+- Uniswap (BZZ/ETH): https://app.uniswap.org/#/swap?chain=ethereum&inputCurrency=ETH&outputCurrency=0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb
+- Honeyswap (xBZZ/xDAI): https://honeyswap.1hive.eth.limo/#/swap?chain=xdai&outputCurrency=0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da
 
 -------
 # Onchain information
