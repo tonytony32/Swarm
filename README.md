@@ -125,10 +125,6 @@ BZZ usage is two-fold:
 
 Fixed at 63149437.8365502211917282 tokens.
 
-| Contract | Blockchain | Address |
-| --- | --- | --- |
-BZZ Bonding Curve | Ethereum | 0x4F32Ab778e85C4aD0CEad54f8f82F5Ee74d46904
-
 ### Storage Incentives Contracts
 | Contract | Blockchain | Address |
 | --- | --- | --- |
