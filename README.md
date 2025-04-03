@@ -153,6 +153,8 @@ Postage Stamps is a verifiable proof of payment associated with a chunk, signali
 
 The uploaders pay a rent in BZZ to storers in proportion to the amount of storage space required and the duration of using it. This rent is redistributed to storers at regular intervals in a probabilistic fashion, similarly to how validation rewards and transaction fees are paid in proof-of-stake consensus mechanisms.
 
+[Network SLAs](https://network.ethswarm.org/)
+
 [Whitepaper](https://www.ethswarm.org/swarm-whitepaper.pdf) (document, 13 pages)
 
 [Book of Swarm](https://www.ethswarm.org/The-Book-of-Swarm.pdf) (document, 271 pages)
@@ -160,8 +162,6 @@ The uploaders pay a rent in BZZ to storers in proportion to the amount of storag
 [The Mechanics of Swarm network's Storage Incentives](https://medium.com/ethereum-swarm/the-mechanics-of-swarm-networks-storage-incentives-3bf68bf64ceb) (Medium article, paper to be released)
 
 [All published papers](https://papers.ethswarm.org/)
-
-[Network statistics](https://network.ethswarm.org/)
 
 ### Code Audits
 
