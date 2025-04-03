@@ -77,9 +77,8 @@ Coingecko:https://www.coingecko.com/en/coins/swarm#markets
 
 ### DEX Markets
 
-- Bonding curve (BZZ/DAI): https://bzz.exchange/
 - Uniswap (BZZ/ETH): https://app.uniswap.org/#/swap?chain=ethereum&inputCurrency=ETH&outputCurrency=0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb
-- Honeyswap (xBZZ/xDAI): https://honeyswap.1hive.eth.limo/#/swap?chain=xdai&outputCurrency=0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da
+- Balancer (xBZZ/xDAI): https://balancer.fi/swap/gnosis/xDAI/0xdbf3ea6f5bee45c02255b2c26a16f300502f68da
 
 -------
 # Onchain information
@@ -109,7 +108,7 @@ Gnosis chain
 
 https://tokenservice.ethswarm.org/circulating_supply
 
-https://tokenservice.ethswarm.org/token_price
+https://tokenservice.ethswarm.org/token_price (Deprecated)
 
 ### Block Explorer
 
@@ -124,7 +123,7 @@ BZZ usage is two-fold:
 
 ### Token supply
 
-The token supply is not fixed and can increase or decrease via the bonding curve. Put simply, if the supply goes up by one token, so does its price in the bonding curve contract, and vice versa. This makes BZZ neither inflationary nor deflationary. You can read about Swarm’s supply and bonding curve in detail [here](https://medium.com/ethereum-swarm/swarm-and-its-bzzaar-bonding-curve-ac2fa9889914).
+Fixed at 63149437.8365502211917282 tokens.
 
 | Contract | Blockchain | Address |
 | --- | --- | --- |
@@ -157,8 +156,6 @@ The Swarm Accounting Protocol (SWAP) ensures that node operators collaborate in 
 Postage Stamps is a verifiable proof of payment associated with a chunk, signaling its relative importance and preventing frivolous uploads.
 
 The uploaders pay a rent in BZZ to storers in proportion to the amount of storage space required and the duration of using it. This rent is redistributed to storers at regular intervals in a probabilistic fashion, similarly to how validation rewards and transaction fees are paid in proof-of-stake consensus mechanisms.
-
-
 
 [Whitepaper](https://www.ethswarm.org/swarm-whitepaper.pdf) (document, 13 pages)
 
