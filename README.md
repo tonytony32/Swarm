@@ -55,7 +55,7 @@ Economically self-sustaining due to a built-in incentive system, enforced throug
 
 ### Launch style
 - Initial Exchange Offering (IEO): [Swarm Token sale drives over 20,000 new token holders](https://blog.coinlist.co/swarm-token-sale-drives-over-20-000-new-token-holders/)
-- Private Sale: [Bitcoin Suisse Facilitates Private Fundraising Round of Swarm](https://www.bitcoinsuisse.com/news/bitcoin-suisse-facilitates-private-fundraising-round-of-swarm)
+- Private Sale: [Bitcoin Suisse Facilitates Private Fundraising Round of Swarm](https://www.bitcoinsuisse.com/news/bitcoin-suisse-facilitates-private-fundraising-round-of-swarm) and [Swarm secures funds for mainnet release](https://medium.com/ethereum-swarm/swarm-secures-funds-for-mainnet-release-2992d453fa09)
 - Airdrop: [Swarm is airdropping 1,000,000 BZZ](https://medium.com/ethereum-swarm/swarm-is-airdropping-1-000-000-bzz-bd3b706918d3)
 
 ### Token Emission, Vesting, and Distribution Details
