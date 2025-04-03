@@ -163,6 +163,10 @@ The uploaders pay a rent in BZZ to storers in proportion to the amount of storag
 
 [The Mechanics of Swarm network's Storage Incentives](https://medium.com/ethereum-swarm/the-mechanics-of-swarm-networks-storage-incentives-3bf68bf64ceb) (Medium article, paper to be released)
 
+[All published papers](https://papers.ethswarm.org/)
+
+[Network statistics](https://network.ethswarm.org/)
+
 ### Code Audits
 
 Include links to any security audits that have been completed
