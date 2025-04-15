@@ -167,6 +167,8 @@ The uploaders pay a rent in BZZ to storers in proportion to the amount of storag
 
 Include links to any security audits that have been completed
 
-Swarm Token - Quantstamp
-Bee + Bee Clef - Least Authority
-Penetration test - Cure53
+[Swarm Token - Quantstamp](https://github.com/tonytony32/Swarm/blob/ceb8bd6776f49a4241da4f90976d7d0846b0b372/Audits/Swarm%20Token%20-%20Quantstamp.pdf)
+
+[Bee + Bee Clef - Least Authority](https://github.com/tonytony32/Swarm/blob/ceb8bd6776f49a4241da4f90976d7d0846b0b372/Audits/Least%20Authority%20-%20Swarm%20Association%20Bee%20%2B%20Bee%20Clef%20Initial%20Audit%20Report.pdf)
+
+[Penetration test - Cure53](https://github.com/tonytony32/Swarm/blob/ceb8bd6776f49a4241da4f90976d7d0846b0b372/Audits/cure53-SWA-01-report.pdf)
