@@ -167,7 +167,6 @@ The uploaders pay a rent in BZZ to storers in proportion to the amount of storag
 
 Include links to any security audits that have been completed
 
-[Cure53](https://crypt.swarm.foundation/s/kJCA4wXGCTs6yed)
-
-[Least Authority](https://crypt.swarm.foundation/s/mR7TKQBp24cjLco)
-
+Swarm Token - Quantstamp
+Bee + Bee Clef - Least Authority
+Penetration test - Cure53
